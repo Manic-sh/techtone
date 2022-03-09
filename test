@@ -1,0 +1,9 @@
+
+# Go to the workspace directory
+cd ~/workspace
+
+# Clone the repository for this ME.
+git clone git@gitlab.crio.do:COHORT_ME_QTRIPSTATIC_ENROLL_1640173868015/mash-pro666-ME_QTRIPSTATIC.git
+
+# Go into the cloned repo directory.
+cd ~/workspace/mash-pro666-ME_QTRIPSTATIC/
